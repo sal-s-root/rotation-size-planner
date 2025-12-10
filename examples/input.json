@@ -1,0 +1,6 @@
+{
+  "active_mib": 100,
+  "rotations": 7,
+  "compression_ratio": 0.2,
+  "budget_mib": 300
+}
