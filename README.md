@@ -50,3 +50,12 @@ are test fixtures. Keep credentials and private inventory out of Git.
 
 See [NOTES.md](NOTES.md) for the input contract, verification, and integration notes.
 Related utilities: [systemd-unit-linter](https://github.com/sal-s-root/systemd-unit-linter), [maintenance-window-planner](https://github.com/sal-s-root/maintenance-window-planner).
+
+## Project status
+
+A small standalone learning exercise using supplied fixtures. The related
+[infrastructure toolbox](https://github.com/sal-s-root/infra-toolbox) collects these
+checks in one place.
+
+The assigned historical dates form a retrospective learning schedule; this
+exercise was created or reconstructed in 2026. See [history and scope](HISTORY.md).
